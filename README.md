@@ -1,2 +1,3 @@
-# ecommerce-sales-analytics
-End to end data analyst project using SQL, python, and  power bi
+# E-Commerce Sales & Customer Insights Analytics
+
+Complete data analytics project using SQL, Python, Power BI and Excel.
